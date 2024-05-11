@@ -9,9 +9,9 @@ To date, a total of 9 articles have been published in SCI journals, with 2 of th
 
 # 2024
 
-1. Zhu, Y., Liu, Y., Li, S., Wang, H., Lu, X., Wang, H., ..., **Wang, H.**, ... & Fan, Q. (2024). Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions. Science of The Total Environment, 906, 167485. url: https://www.sciencedirect.com/science/article/pii/S0048969723061120
+1. Zhu, Y., Liu, Y., Li, S., Wang, H., Lu, X., Wang, H., ..., **Wang, H.**, ... & Fan, Q. (2024). Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions. Science of The Total Environment, 906, 167485. url: [https://www.sciencedirect.com/science/article/pii/S0048969723061120](https://www.sciencedirect.com/science/article/pii/S0048969723061120)
 
-2. Jin, Y., Liu, Y., Lu, X., Chen, X., Shen, A., **Wang, H.**, ... & Fan, Q. (2024). Measurement report: Assessing the impacts of emission uncertainty on aerosol optical properties and radiative forcing from biomass burning in peninsular Southeast Asia. Atmospheric Chemistry and Physics, 24(1), 367-395. url: https://acp.copernicus.org/articles/24/367/2024/
+2. Jin, Y., Liu, Y., Lu, X., Chen, X., Shen, A., **Wang, H.**, ... & Fan, Q. (2024). Measurement report: Assessing the impacts of emission uncertainty on aerosol optical properties and radiative forcing from biomass burning in peninsular Southeast Asia. Atmospheric Chemistry and Physics, 24(1), 367-395. url: [https://acp.copernicus.org/articles/24/367/2024/](https://acp.copernicus.org/articles/24/367/2024/)
 
 # 2023
 
