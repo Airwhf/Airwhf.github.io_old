@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# MEIAT-CMAQ
+## MEIAT-CMAQ
 
-[MEIAT-CMAQ](https://github.com/CIAT-DAPA/MEIAT-CMAQ)
+1. [MEIAT-CMAQ](https://github.com/CIAT-DAPA/MEIAT-CMAQ)
 
