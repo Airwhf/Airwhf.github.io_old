@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, a total of 9 articles have been published in SCI journals, with 2 of these authored as the first author.
-
 # 2024
 
 1. **Wang, H.**, Qiu, J., Liu, Y., Fan, Q., Lu, X., Zhang, Y., Wu, K., ..., & Sun, J., Wang, H., (2024). MEIAT-CMAQ: A Modular Emission Inventory Allocation Tool for Community Multiscale Air Quality Model. Atmospheric Environment, 2024, 120614. url: [https://doi.org/10.1016/j.atmosenv.2024.120604](https://doi.org/10.1016/j.atmosenv.2024.120604)
