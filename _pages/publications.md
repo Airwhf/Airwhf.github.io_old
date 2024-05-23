@@ -9,7 +9,7 @@ To date, a total of 9 articles have been published in SCI journals, with 2 of th
 
 # 2024
 
-1. **Wang, H.**, Qiu, J., Liu, Y., Fan, Q., Lu, X., Zhang, Y., Wu, K., ..., & Sun, J., Wang, H., (2024). MEIAT-CMAQ: A Modular Emission Inventory Allocation Tool for Community Multiscale Air Quality Model. Atmospheric Environment, 2024, 120614. url: [https://doi.org/10.1016/j.atmosenv.2024.120614](https://doi.org/10.1016/j.atmosenv.2024.120614)
+1. **Wang, H.**, Qiu, J., Liu, Y., Fan, Q., Lu, X., Zhang, Y., Wu, K., ..., & Sun, J., Wang, H., (2024). MEIAT-CMAQ: A Modular Emission Inventory Allocation Tool for Community Multiscale Air Quality Model. Atmospheric Environment, 2024, 120614. url: [https://doi.org/10.1016/j.atmosenv.2024.120604](https://doi.org/10.1016/j.atmosenv.2024.120604)
 
 2. Zhu, Y., Liu, Y., Li, S., Wang, H., Lu, X., Wang, H., ..., **Wang, H.**, ... & Fan, Q. (2024). Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions. Science of The Total Environment, 906, 167485. url: [https://www.sciencedirect.com/science/article/pii/S0048969723061120](https://www.sciencedirect.com/science/article/pii/S0048969723061120)
 
