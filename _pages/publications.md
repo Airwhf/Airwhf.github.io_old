@@ -25,7 +25,7 @@ author_profile: true
 
 5. He, G., He, C., **Wang, H.**, Lu, X., Pei, C., Qiu, X., ... & Fan, S. (2023). Nighttime ozone in the lower boundary layer: insights from 3-year tower-based measurements in South China and regional air quality modeling. Atmospheric Chemistry and Physics, 23(20), 13107-13124. url: [https://acp.copernicus.org/articles/23/13107/2023/](https://acp.copernicus.org/articles/23/13107/2023/)
 
-6. Qiu, J., Fang, C., Tian, N., Wang, H., & Wang, J. (2023). Impacts of land use and land cover changes on local meteorology and PM2. 5 concentrations in Changchun, Northeast China. Atmospheric Research, 289, 106759. url: [https://doi.org/10.1016/j.atmosres.2023.106759](https://doi.org/10.1016/j.atmosres.2023.106759)
+6. Qiu, J., Fang, C., Tian, N., **Wang, H**., & Wang, J. (2023). Impacts of land use and land cover changes on local meteorology and PM2. 5 concentrations in Changchun, Northeast China. Atmospheric Research, 289, 106759. url: [https://doi.org/10.1016/j.atmosres.2023.106759](https://doi.org/10.1016/j.atmosres.2023.106759)
 
 # 2022
 
