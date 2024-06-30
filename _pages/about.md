@@ -19,4 +19,5 @@ Hi! My name is Haofan Wang (王浩帆) and I am a Ph.D candidate in the School o
 
 ## Honors and Awards
 
+- 2023-2024: The second scholarship of the Sun Yat-sen University.
 - 2022-2023: The second scholarship of the Sun Yat-sen University.

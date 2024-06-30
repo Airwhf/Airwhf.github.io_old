@@ -9,7 +9,7 @@ author_profile: true
 
 1. Xian, Y., Zhang, Y., Liu, Z., **Wang, H.**, Wang, J., & Tang, C. (2024). Source apportionment and formation of warm season ozone pollution in Chengdu based on CMAQ-ISAM. ***Urban Climate***. url: [https://doi.org/10.1016/j.uclim.2024.102017](https://doi.org/10.1016/j.uclim.2024.102017)
 
-2. **Wang, H.**, Qiu, J., Liu, Y., Fan, Q., Lu, X., Zhang, Y., Wu, K., ..., & Sun, J., Wang, H., (2024). MEIAT-CMAQ: A Modular Emission Inventory Allocation Tool for Community Multiscale Air Quality Model. Atmospheric Environment, 2024, 120614. url: [https://doi.org/10.1016/j.atmosenv.2024.120604](https://doi.org/10.1016/j.atmosenv.2024.120604)
+2. **Wang, H.**, Qiu, J., Liu, Y., Fan, Q., Lu, X., Zhang, Y., Wu, K., ..., & Sun, J., Wang, H., (2024). MEIAT-CMAQ: A Modular Emission Inventory Allocation Tool for Community Multiscale Air Quality Model. ***Atmospheric Environment***, 2024, 120614. url: [https://doi.org/10.1016/j.atmosenv.2024.120604](https://doi.org/10.1016/j.atmosenv.2024.120604)
 
 3. Zhu, Y., Liu, Y., Li, S., Wang, H., Lu, X., Wang, H., ..., **Wang, H.**, ... & Fan, Q. (2024). Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions. ***Science of The Total Environment***, 906, 167485. url: [https://doi.org/10.1016/j.scitotenv.2023.167485](https://doi.org/10.1016/j.scitotenv.2023.167485)
 
