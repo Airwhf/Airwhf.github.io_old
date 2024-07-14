@@ -15,7 +15,7 @@ author_profile: true
 
 4. Jin, Y., Liu, Y., Lu, X., Chen, X., Shen, A., **Wang, H.**, ... & Fan, Q. (2024). Measurement report: Assessing the impacts of emission uncertainty on aerosol optical properties and radiative forcing from biomass burning in peninsular Southeast Asia. ***Atmospheric Chemistry and Physics***, 24(1), 367-395. url: [https://acp.copernicus.org/articles/24/367/2024/](https://acp.copernicus.org/articles/24/367/2024/)
 
-
+5. Xian, Y., Zhang, Y., Liu, Z., **Wang, H.**, Xiong, T. (2024). Characterization of winter PM2.5 source contributions and impacts of meteorological conditions and anthropogenic emission changes in the Sichuan Basin, 2002–2020. **Science of The Total Environment**. url: [https://doi.org/10.1016/j.scitotenv.2024.174557](https://doi.org/10.1016/j.scitotenv.2024.174557)
 
 # 2023
 
